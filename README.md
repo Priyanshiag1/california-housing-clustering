@@ -4,7 +4,7 @@ This project applies the **DBSCAN (Density-Based Spatial Clustering of Applicati
 
 ## 📁 Files Included
 
-- `DBSCAN_California_Housing.ipynb` — Complete notebook with explanations and visualizations
+- `DBSCAN.ipynb` — Complete notebook with explanations and visualizations
 - `california_housing_train.csv` — Dataset
 - `README.md` — You’re here!
 
